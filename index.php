@@ -19,5 +19,6 @@ echo $a;
 echo $b;
 
 ?>
+<a href="if.php">上一頁</a>
 </body>
 </html>
